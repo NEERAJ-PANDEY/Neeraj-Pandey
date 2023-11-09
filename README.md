@@ -12,7 +12,7 @@
  
 
 
-<p align="left"> <a href="" target="blank"><img src="" alt="NEERAJ-PANDEY" /></a> </p>
+
 
 - 🌱 I had  graduated in BTech Computer Science and Engineering.
 
